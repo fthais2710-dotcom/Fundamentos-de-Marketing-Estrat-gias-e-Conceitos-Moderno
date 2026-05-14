@@ -8,11 +8,14 @@ O marketing digital tem sido meu principal foco de estudo, pois ajudo minha mãe
 # Prompots ultilizados:
 - qual estratégias de marketing digital ajudam pequenos negócios?
 descobri estrategias como marketing de conteúdo,anúcios e relacionamento com clientes.
+
 -como aumentar o engajamento nas redes sociais de uma loja online?
 aprendi sobre frêquencia de postagens, interação com seguidores e uso de stories.
+
 # dificuldades em repostas:
 -sobre como criar legendas atrativas para vender cosmetico no instagram
 não obtive uma resposta correta.
+
 # resumo
 marketing digital é um conjunto de estratégias usadas produtos e aumentar vendas pela internet.
 # glossário 
