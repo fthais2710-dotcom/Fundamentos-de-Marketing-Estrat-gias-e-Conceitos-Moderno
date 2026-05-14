@@ -1,6 +1,7 @@
 # Marketing digital para pequenos negócios
 O marketing digital tem sido meu principal foco de estudo, pois ajudo minha mãe em seu pequeno comércio on-line de cosméticos. Meu objetivo é aprender mais sobre o mercado e me aperfeiçoar para contribuir cada vez mais com as postagens e o crescimento do negócio.
-# https://www.youtube.com/watch?v=yYBENGU_Oeg
+# 
+-https://www.youtube.com/watch?v=yYBENGU_Oeg
 -https://pt.wikipedia.org/wiki/Marketing
 -https://www.rdstation.com/blog/marketing/marketing/
 -https://fia.com.br/blog/o-que-e-marketing/
