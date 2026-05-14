@@ -1,4 +1,4 @@
-# Fundamentos-de-Marketing-Estrat-gias-e-Conceitos-Moderno
+# Marketing digital para pequenos negócios
 O marketing digital tem sido meu principal foco de estudo, pois ajudo minha mãe em seu pequeno comércio on-line de cosméticos. Meu objetivo é aprender mais sobre o mercado e me aperfeiçoar para contribuir cada vez mais com as postagens e o crescimento do negócio.
 # https://www.youtube.com/watch?v=yYBENGU_Oeg
 -https://pt.wikipedia.org/wiki/Marketing
@@ -14,7 +14,7 @@ aprendi sobre frêquencia de postagens, interação com seguidores e uso de stor
 não obtive uma resposta correta.
 # resumo
 marketing digital é um conjunto de estratégias usadas produtos e aumentar vendas pela internet.
-# glossaário 
+# glossário 
 - engajamento: interação do publico.
 - alcance: quantidade de pessoas que visualizaram.
 - conversão: quando o cliente realizar uma compra.
