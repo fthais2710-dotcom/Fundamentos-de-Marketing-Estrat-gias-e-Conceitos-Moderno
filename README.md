@@ -17,7 +17,7 @@ aprendi sobre frêquencia de postagens, interação com seguidores e uso de stor
 não obtive uma resposta correta.
 
 # resumo
-marketing digital é um conjunto de estratégias usadas produtos e aumentar vendas pela internet.
+marketing digital é um conjunto de estratégias usadas para divulgar produtos e aumentar vendas pela internet.
 # glossário 
 - engajamento: interação do publico.
 - alcance: quantidade de pessoas que visualizaram.
